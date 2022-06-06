@@ -25,7 +25,8 @@ Una vez dándole al boto de crear en WordPress nos crea varios recursos, despué
 -	El tipo de suscripción
 -	Grupo de recursos (Carpeta)
 -	Región 
--	Nombre
+-	Nombre  
+
 De estos 4 datos uno de los mas importantes es la región de en donde queremos que se esté nuestros proyectos, puesto que depende de en donde mayor parte se estén conectando nuestros usuarios y la cercanía a él.
  Una vez colocado los datos se oprime el botón de siguiente y el cual no es mas que para poder presentar más información a la persona encargada en Azure, posterior a ello damos en el botón de revisar y crear para que estes haga una revisión por si existe un error y de no ser así se cree el servicio de Azure.
 
@@ -34,7 +35,8 @@ De estos 4 datos uno de los mas importantes es la región de en donde queremos q
 --------------------------------------------------------
 
 ## **Paso 5:**
-Una vez creado el nuevo servicio de Azure que normalmente un par de minutos nos manda directamente al nuevo servicio creado, una vez estando directamente este servicio nos aparece todas configuraciones que podemos ir haciendo y es en específico las podemos encontrar en la sección de recurso en este caso como vamos a crear un pagina 3 principales recursos (Una base de datos, ASP y servicio) y de estos podemos acceder a ellos y realizar todo tipo de modificación que deseemos y así lo requiera el mismo un ejemplo de ellos pue ser la escalabilidad, conexión de servicios, meticas supervisión etc. de igual manera estando aquí podemos inicia y detener cada una unos de estos servicios. 
+Una vez creado el nuevo servicio de Azure que normalmente un par de minutos nos manda directamente al nuevo servicio creado, una vez estando directamente este servicio nos aparece todas configuraciones que podemos ir haciendo y es en específico las podemos encontrar en la sección de recurso en este caso como vamos a crear un pagina 3 principales recursos (Una base de datos, ASP y servicio) y de estos podemos acceder a ellos y realizar todo tipo de modificación que deseemos y así lo requiera el mismo un ejemplo de ellos pue ser la escalabilidad, conexión de servicios, meticas supervisión etc. de igual manera estando aquí podemos inicia y detener cada una unos de estos servicios.  
+
 **NOTA IMPORTANTE:** 
 - Este paso es importante puesto que algunos de estos realizan un costo bastante alto, en cuestión económica como es el uso de una base de datos en MySQL que este costo se realiza normalmente en minutos, horas o semanas y si está realmente no se ocupa es mejor mantenerlas apagadas si no están funcionado, puesto que, mientras estén encendidas estas generan un costo y así de la misma manera se pueden eliminar en la misma sección solo colocando el nombre del grupo de recursos correcto.
 
