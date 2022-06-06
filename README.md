@@ -6,7 +6,7 @@ Ingresamos a la página [portal.azure.com](https://portal.azure.com/)
 
 --------------------------------------------------------
 
-- **Paso 2:** 
+## **Paso 2:** 
 En la barra de búsqueda realizamos la búsqueda de Marketplace
 
 ![marketplace](https://github.com/aldodanielle/Practica1_Pag_WEB/blob/main/Imagenes/2.png)
